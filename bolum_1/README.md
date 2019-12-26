@@ -6,6 +6,8 @@ Windows kullanıcıları için özel bir **Installer** var.
 
 Bu bölümde son olarak da **IRB** ve komut satırı üzerinden Ruby çalıştırmayı göreceğiz.
 
+* [Önsöz](onsoz.md)
+* [Yazar Hakkında](yazar_hakkinda.md)
 * [Ruby Hakkında](tarihce.md)
 * [Kurulum](kurulum.md)
 * [İnteraktif Kullanım](interaktif_kullanim.md)
