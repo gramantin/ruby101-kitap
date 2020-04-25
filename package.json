@@ -8,7 +8,7 @@
     "vuepress": "^1.4"
   },
   "scripts": {
-    "build": "vuepress build",
-    "dev": "vuepress dev"
+    "build": "vuepress build bolumler",
+    "dev": "vuepress dev bolumler"
   }
 }
