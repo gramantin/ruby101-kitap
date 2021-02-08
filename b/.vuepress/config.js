@@ -12,30 +12,33 @@ module.exports = {
         items: [
           {
             text: 'Bölüm 1',
-            link: '/bolum_1/'
+            link: '/b1/'
           },
           {
             text: 'Bölüm 2',
-            link: '/bolum_2/'
+            link: '/b2/'
           },
           {
             text: 'Bölüm 3',
-            link: '/bolum_3/'
+            link: '/b3/'
           },
           {
             text: 'Bölüm 4',
-            link: '/bolum_4/'
+            link: '/b4/'
           },
           {
             text: 'Bölüm 5',
-            link: '/bolum_5/'
+            link: '/b5/'
           },
           {
             text: 'Bölüm 6',
-            link: '/bolum_6/'
+            link: '/b6/'
           }
         ]
       }
+    ],
+    sidebar: [
+      ['/', 'Ana sayfa']
     ]
   }
 }
