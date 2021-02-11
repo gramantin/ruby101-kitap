@@ -4,41 +4,39 @@ module.exports = {
   themeConfig: {
     nav: [
       {
-        text: 'Kaynaklar',
-        link: '/KAYNAKLAR.md'
-      },
-      {
         text: 'Bölümler',
         items: [
           {
-            text: 'Bölüm 1',
+            text: 'Bölüm 1: Giriş',
             link: '/b1/'
           },
           {
-            text: 'Bölüm 2',
+            text: 'Bölüm 2: Söz dizimi',
             link: '/b2/'
           },
           {
-            text: 'Bölüm 3',
+            text: 'Bölüm 3: Metodlar',
             link: '/b3/'
           },
           {
-            text: 'Bölüm 4',
+            text: 'Bölüm 4: Veri Tipleri',
             link: '/b4/'
           },
           {
-            text: 'Bölüm 5',
+            text: 'Bölüm 5: Dosya yönetimi',
             link: '/b5/'
           },
           {
-            text: 'Bölüm 6',
+            text: 'Bölüm 6: İleri Mevzular',
             link: '/b6/'
+          },
+          {
+            text: 'Bölüm 7: Kaynaklar',
+            link: '/b7/'
           }
         ]
       }
     ],
-    sidebar: [
-      ['/', 'Ana sayfa']
-    ]
+    sidebar: 'auto'
   }
 }

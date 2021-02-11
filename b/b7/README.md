@@ -1,4 +1,4 @@
-## Ruby Kaynaklar
+## Bölüm 7: Ruby Kaynaklar
 
 > Ruby programlama dilini öğrenmek, pekiştirmek için çeşitli kaynaklar
 
