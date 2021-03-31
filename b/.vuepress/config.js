@@ -2,10 +2,10 @@ module.exports = {
   title: 'Ruby 101',
   description: 'Ruby programlama diline dair -resmi kaynaktan sonra- ilk başvuru kaynağı',
   themeConfig: {
-    nav: [
+    navbar: [
       {
         text: 'Bölümler',
-        items: [
+        children: [
           {
             text: 'Bölüm 1: Giriş',
             link: '/b1/'
